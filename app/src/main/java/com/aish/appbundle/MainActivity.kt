@@ -47,12 +47,7 @@ class MainActivity : BaseActivity() {
                 state, getString(R.string.installing, names)
             )
             SplitInstallSessionStatus.FAILED -> {
-                Log(
-                    getString(
-                        R.string.error_for_module, state.errorCode(),
-                        state.moduleNames()
-                    )
-                )
+                Log(getString(R.string.error_for_module, state.errorCode(), state.moduleNames()))
             }
             SplitInstallSessionStatus.CANCELED -> {
 
