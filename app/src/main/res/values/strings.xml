@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InstantAppBundle</string>
+    <string name="load_feature_customer_support">Customer Support </string>
+
+    <string name="loading">Loading</string>
+    <string name="install_all_features_now">Install all features now</string>
+    <string name="request_uninstall">Request module uninstall</string>
+
+    <string name="user_cancelled">The user cancelled module installation</string>
+    <string name="loading_module">Loading module %1$s</string>
+    <string name="already_installed">Already installed</string>
+    <string name="starting_install_for">Starting install for %1$s</string>
+    <string name="downloading">Downloading %1$s</string>
+    <string name="installing">Installing %1$s</string>
+    <string name="error_for_module">Error: %1$i for module %2$s</string>
+
+    <string name="title_initialinstall">Initial Installation</string>
+
+    <string name="title_customer_support">Customer Support</string>
+</resources>

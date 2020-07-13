@@ -1,0 +1,3 @@
+include ':customer_support'
+rootProject.name='AppBundle'
+include ':app'
